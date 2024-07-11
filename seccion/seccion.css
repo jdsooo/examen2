@@ -1,0 +1,11 @@
+section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 100px; 
+}
+
+.j1 {
+    background-color: #33ff00;
+    height: 200px;
+}
